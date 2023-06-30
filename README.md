@@ -7,22 +7,21 @@
 # 💪 My major is ..
 
 1. AI 모델링
-
-Visual based Anomaly detection
-Super Resolution learning GAN
-Bayesian learning
-
+- CV :
+- NLP :
+- 음성 :
+- ML : 
 2. Computer engineering Language & skils
-Python, C, Java, Verilog HDL
+- Python, C, Java, Verilog HDL
 
 3. Python library
-OpenCV, WanDB, tensorflow, pytorch, sklearn, transformer
+- OpenCV, WanDB, tensorflow, pytorch, sklearn, transformer
 
 4. 웹 및 DB
-Flask, MySQL
+- Flask, MySQL
 
 5. Embedded system
-ArduIno, AVR programming
+- ArduIno, AVR programming
 
 # Project
 
