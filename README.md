@@ -1,9 +1,30 @@
-### 예비 AI 엔지니어입니다
+# 예비 AI 엔지니어입니다
 
 - 서울과학기술대학교 전자IT미디어공학과 학사 졸업
 - alpaco AI 데이터 엔지니어 교육 수강(22.12.27 ~ 23.6.30)
+- 생성형 AI를 활용한 상담지원 서비스 앱・웹 개발 공모전 수상(서울디지털재단, 서울특별시120다산콜재단 주최)
 
-### Project
+# 💪 My major is ..
+
+1. AI 모델링
+
+Visual based Anomaly detection
+Super Resolution learning GAN
+Bayesian learning
+
+2. Computer engineering Language & skils
+Python, C, Java, Verilog HDL
+
+3. Python library
+OpenCV, WanDB, tensorflow, pytorch, sklearn, transformer
+
+4. 웹 및 DB
+Flask, MySQL
+
+5. Embedded system
+ArduIno, AVR programming
+
+# Project
 
 ---
 
