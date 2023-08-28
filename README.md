@@ -1,27 +1,60 @@
-# 예비 AI 엔지니어입니다
 
-- 서울과학기술대학교 전자IT미디어공학과 학사 졸업
-- alpaco AI 데이터 엔지니어 교육 수강(22.12.27 ~ 23.6.30)
-- 생성형 AI를 활용한 상담지원 서비스 앱・웹 개발 공모전 수상(서울디지털재단, 서울특별시120다산콜재단 주최)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&text=Ayun's%20GitHub)
+<br/><br/>
 
-# 💪 My major is ..
+<div align="center">
+    안녕하세요. 딥러닝AI 엔지니어가 되고자 공부하고 있습니다.
+</div>
+<br/>
+<br/>
 
-1. AI 모델링
-- CV :
-- NLP :
-- 음성 :
-- ML : 
-2. Computer engineering Language & skils
-- Python, C, Java, Verilog HDL
+🎓 서울과학기술대학교 전자IT미디어공학과 학사 졸업
 
-3. Python library
-- OpenCV, WanDB, tensorflow, pytorch, sklearn, transformer
+🅰️ alpaco AI 데이터 엔지니어 교육 수강(22.12.27 ~ 23.6.30)
 
-4. 웹 및 DB
-- Flask, MySQL
+🏅 [AI 팩토리 해커톤 주관] 생성형 AI를 활용한 상담지원 서비스 앱・웹 개발 공모전 수상(서울디지털재단, 서울특별시120다산콜재단 주최)
 
-5. Embedded system
-- ArduIno, AVR programming
+<div align="center">
+💪 My Major is
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+<img src="https://img.shields.io/badge/scikit_leran-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
+<img src="https://img.shields.io/badge/transformers-FFB02E?style=for-the-badge">
+
+<br/>
+
+🖥️ I mostly used
+
+<br/>
+
+<img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arXiv&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+
+<br/>
+
+🤏🏻 Once I've Used
+
+<br/>
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-E32C2D?style=for-the-badge">
+<img src="https://img.shields.io/badge/Verilog-A8B9CC?style=for-the-badge">
+<img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Atmel_Studio-E7302F?style=for-the-badge">
+<img src="https://img.shields.io/badge/WanDB-FFCC33?style=for-the-badge">
+<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+
+</div>
 
 # Project
 
@@ -34,19 +67,18 @@
     > 역할 : 프로젝트 일정 관리, 이미지 및 음성 전처리, MIT fine-tuning   
     > 프로젝트 참여 인원 : 4명
 
-
-2. 판결문 추천 시스템
-    > 개요 : 딥러닝을 통해 사례와 유사한 재판선례를 통해 빠르게 추천하여 고객들에게 쉬운 정보 제공을 해주고, 전문가를 보조해주는 시스템   
-    > github : <https://github.com/ayun3738/Precedent_Recommend>  
-    > 개발환경: python, pytorch, model (ko-sentence-bert)   
-    > 역할 : 판례 크롤링, 문장간 cosine-유사도 auto-labeling, 텍스트 전처리, 시스템 pipeline 구축   
-    > 프로젝트 참여 인원 : 3명
-
-3. CloudDetection
+2. CloudDetection
     > 개요 : 딥러닝을 위성사진에서 강수확률과 관련된 구름을 디텍팅하여 기상예보 분석을 보조해주는 모델 설계   
     > github : <https://github.com/ayun3738/CloudDetection>  
     > 개발환경: python, pytorch, model (yolov4, yolov5, yolov8)  
     > 역할 : 이미지 데이터 라벨링 수정, 이미지 전처리, yolov4 및 yolov8 custom fine-tuning을 위한 pipeline 구축 및 학습  
+    > 프로젝트 참여 인원 : 3명
+
+3. 판결문 추천 시스템
+    > 개요 : 딥러닝을 통해 사례와 유사한 재판선례를 통해 빠르게 추천하여 고객들에게 쉬운 정보 제공을 해주고, 전문가를 보조해주는 시스템   
+    > github : <https://github.com/ayun3738/Precedent_Recommend>  
+    > 개발환경: python, pytorch, model (ko-sentence-bert)   
+    > 역할 : 판례 크롤링, 문장간 cosine-유사도 auto-labeling, 텍스트 전처리, 시스템 pipeline 구축   
     > 프로젝트 참여 인원 : 3명
 
 4. 반려견 안구 질병 판별기
