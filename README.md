@@ -28,10 +28,9 @@
 <img src="https://img.shields.io/badge/transformers-FFB02E?style=for-the-badge">
 
 <br/>
+<br/>
 
 🖥️ I mostly used
-
-<br/>
 
 <img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arXiv&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=GitHub&logoColor=white">
@@ -39,6 +38,7 @@
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 
+<br/>
 <br/>
 
 🤏🏻 Once I've Used
@@ -53,6 +53,8 @@
 <img src="https://img.shields.io/badge/WanDB-FFCC33?style=for-the-badge">
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+
+<br/>
 <br/>
 
 알고리즘 공부
