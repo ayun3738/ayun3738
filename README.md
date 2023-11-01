@@ -53,8 +53,10 @@
 <img src="https://img.shields.io/badge/WanDB-FFCC33?style=for-the-badge">
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<br/>
 
 알고리즘 공부
+<br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ayun3738)](https://solved.ac/ayun3738/)
 
