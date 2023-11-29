@@ -56,7 +56,7 @@
 <br/>
 <br/>
 
-알고리즘 공부
+백준 알고리즘 공부
 <br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ayun3738)](https://solved.ac/ayun3738/)
